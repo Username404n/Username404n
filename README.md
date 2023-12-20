@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Username404n
-- 👀 I’m interested in coding
-- 🌱 My real name is iBlooket.commer
+- 👋 Hi, I’m Ben Stewart
+- 👀 I writed blooket game
+- 🌱Emily Alanna Stewart is my sister
 - 💞️ I can cheat blooket
-- 📫 My best friend is tolibjon
-<!---
-Username404n/Username404n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 My best friend is Xotic5 
+
